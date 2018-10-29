@@ -1,0 +1,7 @@
+com/killrvideo/rest/KillrVideoRestApi.class
+com/killrvideo/rest/resource/VideoResource.class
+com/killrvideo/rest/resource/UserResource.class
+com/killrvideo/rest/config/SwaggerConfig.class
+com/killrvideo/rest/error/RestExceptionHandler.class
+com/killrvideo/rest/resource/CommentResource.class
+com/killrvideo/rest/config/HomeResource.class
